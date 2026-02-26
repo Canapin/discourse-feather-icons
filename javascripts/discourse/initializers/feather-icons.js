@@ -150,7 +150,7 @@ function initIcons(api) {
   api.replaceIcon("pause", "ft-pause");
   api.replaceIcon("pencil-alt", "ft-edit-2");
   api.replaceIcon("play", "ft-play");
-  api.replaceIcon("plug", "ft-zap");
+  api.replaceIcon("plug", "ft-cpu");
   api.replaceIcon("plus-circle", "ft-plus-circle");
   api.replaceIcon("plus-square", "ft-plus-square");
   api.replaceIcon("plus", "ft-plus");
